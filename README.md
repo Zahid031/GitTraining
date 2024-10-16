@@ -1,2 +1,2 @@
 # GitTraining
-For Git Training
+For Git and Github Training
