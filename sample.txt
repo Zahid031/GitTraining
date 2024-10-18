@@ -1,2 +1,8 @@
 It for develope branch
+<<<<<<< Updated upstream
 Urgent working
+=======
+for megrge conflict
+
+Tring to stash
+>>>>>>> Stashed changes
